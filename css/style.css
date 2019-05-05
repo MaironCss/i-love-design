@@ -100,6 +100,7 @@ h1{
 	font-size: 32px;
 	color: #464b4f;
 	text-align: center;
+	line-height: 1.4;
 }
 .second p{
 	width: 850px;
@@ -107,6 +108,7 @@ h1{
 	font-size: 32px;
 	color: #464b4f;
 	text-align: center;
+	line-height: 1.4;
 }
 h2{
 	display: block;
@@ -138,4 +140,14 @@ h3{
 }
 .ba-footer{
 	margin-bottom: 123px;
+}
+body{
+	background-image: url(../img/main.jpg);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	     -o-background-size: cover;
+	        background-size: cover;
+	margin: 0;
+	padding: 0;
+	
 }
